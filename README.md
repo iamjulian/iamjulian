@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @iamjulian
-- 👀 I’m interested in Website Developer
+- 👀 I’m interested in Website Development
 - 🌱 I’m currently working on NEXT JS
 - 💞️ I’m looking to collaborate on opensource projects
 - 📫 You can reach me on julian.anthony4@gmail.com
